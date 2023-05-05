@@ -1,0 +1,8 @@
+dask
+dask-snowflake
+distributed
+matplotlib
+coiled
+pyarrow
+python-dotenv
+
